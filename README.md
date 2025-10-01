@@ -1,2 +1,2 @@
 # Python_Problem
-This repository contains a collection of Python pattern programs, including number patterns, star patterns, and alphabet patterns. These programs are useful for learning loops, nested loops, and logic building in Python.
+This repository is a collection of Python programs based on series and logic challenges. It includes problems from mathematical series, number series, and special logic-based series. Each challenge is designed to strengthen your understanding of loops, conditions, functions, and problem-solving skills in Python.
