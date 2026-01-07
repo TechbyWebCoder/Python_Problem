@@ -1,15 +1,13 @@
 # 🐍 Python Problem Repository
 
-🔗 **YouTube Channel:** [https://www.youtube.com/@TechByWebCoder](https://www.youtube.com/@TechByWebCoder)
-📺 **Python Playlist:** [https://www.youtube.com/watch?v=v5PeqzrW6UE&list=PLSEwuxyDOS8sWnXn2xQg7qkDqRnpPvYig](https://www.youtube.com/watch?v=v5PeqzrW6UE&list=PLSEwuxyDOS8sWnXn2xQg7qkDqRnpPvYig)
-
-👉 **Don’t forget to Subscribe 🔔 for daily Python tutorials, Shorts, and logic-building programs!**
 
 <p align="center">
   <a href="https://www.youtube.com/@TechByWebCoder"><img src="https://img.shields.io/badge/YouTube-TechByWebCoder-red?style=for-the-badge&logo=youtube"/></a>
   <a href="https://github.com/TechbyWebCoder/Python_Problem"><img src="https://img.shields.io/badge/GitHub-Python_Problem-black?style=for-the-badge&logo=github"/></a>
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"/>
 </p>
+
+
 
 <p align="center">
 📺 <b>Complete Python Playlist:</b><br>
